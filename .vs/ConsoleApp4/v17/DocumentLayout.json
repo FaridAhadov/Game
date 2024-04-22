@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DMA03\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A889293-4998-4A15-828D-2D52A1752294}|ConsoleApp4\\ConsoleApp4.csproj|d:\\dma03\\consoleapp4\\consoleapp4\\consoleapp4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1A889293-4998-4A15-828D-2D52A1752294}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\consoleapp4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp4",
+              "DocumentMoniker": "D:\\DMA03\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp4\\ConsoleApp4.csproj",
+              "ToolTip": "D:\\DMA03\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+              "RelativeToolTip": "ConsoleApp4\\ConsoleApp4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T12:32:58.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
